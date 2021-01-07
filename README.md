@@ -61,15 +61,3 @@ Pentru realizarea tuturor cerintelor am implementat 11 clase, acestea sunt (in o
 	- Pentru celelalte metode publice exista, de asemenea, metode ajutatoare ce lucreaza recursiv: `printLvlPreOrder(TreeNode* r, int currLvl, int setLvl, ostream& devo)` si `insertFromBST(TreeNode* r)`.
 	
 In `main` se va face deschiderea fisierelor de intrare `c.in` si `d.in` si a fisierului de iesire `r.out`, popularea listei de echipe si in functie de numarul cerintei se vor executa instructiunile necesare cerintei.
-
-# Concluzii despre tema
-
-Consider ca tema a fost bine structura si foarte utila pentru un viitor programator C++. Cerintele temei ajuta foarte mult la familiarizarea cu programarea orientata pe obiecte, dar si la utilizarea unor structuri de date frecvent folosite in programare.
-
-
-Am reusit sa realizez toate cerintele, iar punctajul checker-ului (100) reflecta acest lucru.
-
-Cele mai mari dificultati le-am intalnit la lucrul cu pointerii, dar dupa aceasta tema, ma simt mult mai pregatit. :smile:
-
-Cred ca se putea mai bine, de fapt, m-am si gandit la o metoda mai eficienta, dar din pacate prea tarziu, deja ajunsesem la final cu tema cand am realizat. :angry:
-Totusi, am incercat sa mai eficientizez implementarea actuala si am reusit sa mai reduc din creerea de numarul de noduri creeate.
